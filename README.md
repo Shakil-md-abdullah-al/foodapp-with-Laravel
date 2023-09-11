@@ -4,6 +4,9 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 <b>Home Page"</b>
 ![image](https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/ab8ebe74-7125-41ab-9bbe-d124ad0c4c5f)
 </br>
+<b>Log In Page</b>
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/8ac56cc3-428b-430d-bec3-9fdc5236add8">
+
 <b>After Log In</b>
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/9847eb01-3cca-42b0-900e-d5c208c9550b">
 <b>Today Special"</b>
@@ -24,4 +27,11 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 
 <img width="914" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/c2d43c0f-eadf-4449-975e-74927e47139c">
 
+<b>Food Details</b>
+<img width="937" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/7819283e-b1f2-4153-87a3-7b134b32c60f">
+<img width="945" alt="2" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/48f3d830-f34d-4552-9971-01071a1024d3">
+
+<b>Admin Dashboard</b>
+
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/b50aea4f-1d2a-4e2a-b58e-a2c74f9f3417">
 
