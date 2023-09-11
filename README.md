@@ -14,7 +14,8 @@
 The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly, the project is on the basis of a Corporate food delivery system. Therefore both the office representative and the employee can request an account here. Also, there are fixed menus and also have the option to customize the food items. And for the office, there is a package system that can book for a monthly basis weekly basis, or daily basis. </br>
 <b>Here is a simple overview of the project</b> </br></br></br>
 <b>Home Page</b>
-![image](https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/ab8ebe74-7125-41ab-9bbe-d124ad0c4c5f)
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/dbb16150-1efa-4099-93f8-325f9b68e983">
+
 </br>
 <b>Log In Page</b>
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/8ac56cc3-428b-430d-bec3-9fdc5236add8">
