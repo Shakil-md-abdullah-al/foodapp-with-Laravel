@@ -1,2 +1,2 @@
 # foodapp-with-Laravel
-About Ths Project
+The <b>FoodAPp</b> Management System is a <b> Laravel</> based project. 
