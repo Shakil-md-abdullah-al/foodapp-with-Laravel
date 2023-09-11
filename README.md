@@ -19,8 +19,8 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 <b>Packages</b>
 <img width="912" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/f32c3ebe-f2c2-4d15-ad8e-5cd0f42c18f2">
 
-</br>
 <b>Platter</b>
+</br>
 
 <img width="914" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/c2d43c0f-eadf-4449-975e-74927e47139c">
 
