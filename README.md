@@ -37,3 +37,7 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/b50aea4f-1d2a-4e2a-b58e-a2c74f9f3417">
 
+<b> Regular Order --- Admin Dashboard</b>
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/05ac9b58-0d1b-485b-8066-1683d2c1387f">
+
+
