@@ -3,7 +3,9 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 <b>Here is a simple overview of the project</> </br></br></br>
 <b>Home Page"</b>
 ![image](https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/ab8ebe74-7125-41ab-9bbe-d124ad0c4c5f)
-
+</br>
+<b>After Log In</b>
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/9847eb01-3cca-42b0-900e-d5c208c9550b">
 <b>Today Special"</b>
 <img width="935" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/96b34be9-422f-486f-9cff-e10803583597">
 </br>
@@ -13,4 +15,13 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 
 <b style=" font-size:35px;">Menu Customization"</b>
 <img width="882" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/cdf2cdcf-55d7-4984-98d1-bb6250a45945">
+</br>
+<b>Packages</b>
+<img width="912" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/f32c3ebe-f2c2-4d15-ad8e-5cd0f42c18f2">
+
+</br>
+<b>Platter</b>
+
+<img width="914" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/c2d43c0f-eadf-4449-975e-74927e47139c">
+
 
