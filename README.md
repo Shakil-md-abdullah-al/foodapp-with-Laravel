@@ -8,6 +8,7 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 <img width="945" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/96b34be9-422f-486f-9cff-e10803583597">
 </br>
 <b>Regular Food Section"</b>
+</br>
 <img width="945" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/e32dc656-ab03-4567-9791-1195ae8fbecf">
 
 <b>Menu Customization"</b>
