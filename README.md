@@ -1,4 +1,16 @@
-# foodapp-with-Laravel
+<h1><b>Lunchbox (Foodapp) Management System With Laravel Framework</b></h1>
+<h2>Content</h2>
+<h5>1. Requirement</h5>
+<h5>2. Interface</h5>
+<h5>3. Setup and Configuration</h5>
+<h2>1. Requirement</h2>
+<pre>
+        1. PHP version 8.0.2 or above
+        2. Composer
+        3. Node JS
+        4. Laravel Version 10
+</pre>
+<h2>2. Interface</h2>
 The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly, the project is on the basis of a Corporate food delivery system. Therefore both the office representative and the employee can request an account here. Also, there are fixed menus and also have the option to customize the food items. And for the office, there is a package system that can book for a monthly basis weekly basis, or daily basis. </br>
 <b>Here is a simple overview of the project</b> </br></br></br>
 <b>Home Page</b>
