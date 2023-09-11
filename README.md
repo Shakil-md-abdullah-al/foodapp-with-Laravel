@@ -9,6 +9,7 @@ The <b>FoodApp</b> Management System is a <b> Laravel</b> based project. Mainly,
 
 <b>After Log In</b>
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/9847eb01-3cca-42b0-900e-d5c208c9550b">
+</br>
 <b>Today Special"</b>
 <img width="935" alt="1" src="https://github.com/Shakil-md-abdullah-al/foodapp-with-Laravel/assets/65440571/96b34be9-422f-486f-9cff-e10803583597">
 </br>
